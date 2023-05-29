@@ -1,0 +1,21 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+h1 span {
+    color: #037BC0;
+}
+h1, h2, h3 {
+    font-family: 'Playfair', serif;
+}
+h1 {
+    font-size: 5rem;
+}
+h2, h3 {
+    font-size: 4rem;
+}
+
+.hero img {
+    image-resolution: 25rem;
+}
