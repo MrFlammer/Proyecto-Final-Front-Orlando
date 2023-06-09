@@ -214,7 +214,7 @@ section#disclaimer {
 
 .hero-image {
     min-height: 25rem;
-    background-image: url(./Img/principal.jpg);
+    background-image: url(../Img/principal.jpg);
     background-repeat: no-repeat;
     color: #FFF;
     background-position: 100% 90%;
