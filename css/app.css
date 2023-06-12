@@ -74,94 +74,7 @@ button {
     font-size: large;
 }
 
-/***************** Productos *********************/
-
-/* SECCIÓN 1 */
-
-/* article#producto-1 {
-    display: flex;
-    align-items: center;
-    
-    box-shadow: 2px 3px 6px 1px #00000061;
-}
-
-.columna-1 {
-    flex-basis: 60%;
-}
-.columna-2 {
-    flex-basis: 40%;
-}
-
-article,
-.columna-2 {
-    background: #1586fb;
-    color: white;
-    text-align: center;
-}
-
-.box-descripcion,
-.columna-2 {
-    padding: 1.5rem;
-}
-
-nav#nav-main {
-    background: #1586fb;
-    padding: 10px;
-    box-shadow: 0px 9px 4px 2px #000;
-}
-
-nav#nav-main a {
-    color: white;
-    text-decoration: none;
-} */
-
-/*section#seccion-2 {
-    display: flex;
-    gap: 30px;
-}
-article#producto-2,
-article#producto-3 {
-    flex-basis: 50%;
-}*/
-
-/*section#seccion-3 {
-    display: flex;
-    gap: 30px;
-}
-article#producto-4,
-article#producto-5,
-article#producto-6 {
-    flex-basis: 33.33333%;
-}*/
 /***************** categorias *********************/
-/*section.categorias {
-    display: flex;
-    gap: 30px;
-}
-
-/*div.oficina,
-div.hogar,
-div.cocina {
-    flex-basis: 33.33333%;
-}
-
-section.categorias h2 {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    color: #1586fb;
-    font-size: 1.5rem;
-}
-
-div.oficina, div.hogar, div.cocina {
-    flex-basis: 33.33333%;
-    box-shadow: 0 0 2px #1586fb;
-    padding: 0px;
-    border-radius: 10px 10px 0 0;
-    background: #1586fb1f;
-}
-div.oficina img, div.hogar img, div.cocina img {
-    border-radius: 10px 10px 0 0;
-} */
 
 div.oficina,
 div.hogar,
@@ -186,24 +99,11 @@ div#box-soporte {
     flex-basis: 33.33333%;
 }
 
-/*section#footer {
-    display: flex;
-    gap: 30px;
-    margin-bottom: 2rem;
-    line-height: 1.7rem;
-    padding-top: 1.5rem;
-}*/
-
 footer {
     text-align: center;
     background: #3f3f3f;
     color: white;
 }
-
-/*footer a {
-    color: white;
-    text-decoration: none;
-}*/
 
 section#disclaimer {
     background: #1e1e1e;
